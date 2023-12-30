@@ -6,4 +6,4 @@ This repository contains SVG and PNG formats of Alibaba Cloud icons. You may als
 - `fullset-orange`: These icons are same as icons published on https://www.iconfont.cn/collections/detail?cid=21408
 
 ## Updated Time
-Updated: 2023-06-26
+Updated: 2023-12-30
